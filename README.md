@@ -12,10 +12,12 @@ A comparison is performed between Historical and Monte Carlo VaR approaches for 
 - `tseries` – for ADF test of stationarity  
 
 🧠 Conclusion
+
 Monte Carlo simulation with a fitted Student’s t-distribution provides a more flexible and accurate estimate of tail risk than the historical method.
 It is particularly useful in modeling assets with non-normal or heavy-tailed return distributions.
 
 📌 Author
+
 Komal Limbachiya
 M.Sc. Financial Mathematics
 The Maharaja Sayajirao University of Baroda
